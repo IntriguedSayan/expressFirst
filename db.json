@@ -1,1 +1,42 @@
-{"Products":[{"id":1,"price":20},{"id":2,"price":30},{"id":3,"price":40},{"id":4,"price":50},{"id":5,"price":250}],"todos":[{"id":1,"task":"something"}]}
+{
+    "Products": [
+        {
+            "id": 1,
+            "price": 250
+        },
+        {
+            "id": 2,
+            "price": 350
+        },
+        {
+            "id": 3,
+            "price": 450
+        },
+        {
+            "id": 4,
+            "price": 550
+        },
+        {
+            "id": 5,
+            "price": 650
+        }
+    ],
+    "todos": [
+        {
+            "id": 1,
+            "task": "something"
+        },
+        {
+            "id": 2,
+            "task": "something else"
+        },
+        {
+            "id": 4,
+            "task": "something else more"
+        },
+        {
+            "id": 5,
+            "task": "something much"
+        }
+    ]
+}
